@@ -1,4 +1,4 @@
-﻿namespace DoradoLibraryNowAPI.Models
+﻿namespace CanchelaLibraryNowAPI.Models
 {
     public class Book
     {

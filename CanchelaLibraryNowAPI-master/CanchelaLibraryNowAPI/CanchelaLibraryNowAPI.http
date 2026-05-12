@@ -1,6 +1,6 @@
-@DoradoLibraryNowAPI_HostAddress = http://localhost:5002
+@CanchelaLibraryNowAPI_HostAddress = http://localhost:5002
 
-GET {{DoradoLibraryNowAPI_HostAddress}}/weatherforecast/
+GET {{CanchelaLibraryNowAPI_HostAddress}}/weatherforecast/
 Accept: application/json
 
 ###
