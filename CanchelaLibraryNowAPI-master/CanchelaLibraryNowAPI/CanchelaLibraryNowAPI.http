@@ -1,0 +1,6 @@
+@DoradoLibraryNowAPI_HostAddress = http://localhost:5002
+
+GET {{DoradoLibraryNowAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
